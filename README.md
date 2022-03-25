@@ -8,7 +8,7 @@ Deploy do projeto: https://porta-premiada.vercel.app/
 Para utilizar o programa use: 
 
 ```
-git clone https://github.com/viniciuslima21/portaPremiada.git
+git clone https://github.com/viniciuslimaan/portaPremiada.git
 ```
 
 ## Tecnologias utilizadas
