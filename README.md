@@ -3,7 +3,7 @@ Porta premiada é um jogo simples em que, para ganhar, o jogador precisa acertar
 
 O jogo oferece a opção de escolher quantas portas terá e em qual vai estar o presente, também é possível jogar no modo aleatório. 
 
-Deploy do projeto: https://porta-premiada.vercel.app/
+Deploy do projeto: https://porta-premiada.vercel.app
 
 Para utilizar o programa use: 
 
